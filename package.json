@@ -160,7 +160,8 @@
     "qwik": "qwik"
   },
   "devDependencies": {
-    "@builder.io/qwik": "^1.2.14",
+    "@builder.io/qwik": "1.2.14",
+    "@builder.io/qwik-city": "1.2.14",
     "@primer/octicons": "^19.8.0",
     "@types/eslint": "8.21.1",
     "@types/node": "^18.14.0",
