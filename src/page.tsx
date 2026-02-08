@@ -1,4 +1,4 @@
-import { component$, useSignal, useStore } from "@builder.io/qwik";
+import { component$, useSignal, useStore } from "@qwik.dev/core";
 import { IconGrid } from "./icon-grid";
 import "./page.css";
 

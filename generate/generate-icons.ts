@@ -137,7 +137,7 @@ async function generateIcons(pack: IconPackConfig) {
   ].join("\n");
 
   const indexDeclarationContent = [
-    "import type { JSXNode } from '@builder.io/qwik';",
+    "import type { JSXNode } from '@qwik.dev/core';",
     "import type { IconProps } from '../../utils';",
     ...variantsResult.map(
       (variant) =>

@@ -1,4 +1,4 @@
-import { Component, component$ } from "@builder.io/qwik";
+import { Component, component$ } from "@qwik.dev/core";
 import * as IconObject from "./page/all";
 import { configs } from "./page/configs";
 import { IconProps } from "./utils/icon-props";

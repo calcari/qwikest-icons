@@ -1,3 +1,3 @@
-import { QwikIntrinsicElements } from "@builder.io/qwik";
+import { QwikIntrinsicElements } from "@qwik.dev/core";
 
 export type IconProps = QwikIntrinsicElements["svg"];
